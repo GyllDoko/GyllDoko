@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GyllDoko
+- 👋 Hi, I’m Gyll-christ DOKO ALFA
 - 👀 I’m interested in Web & Mobile Developpement
 - 🌱 I’m currently learning JavaScript Technologies
 - 💞️ I’m looking to collaborate on any web or mobile project
