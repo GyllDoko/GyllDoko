@@ -1,41 +1,58 @@
-# Gyll Doko — React & React Native Developer
+# Gyll-christ DOKO ALFA — React & React Native Developer
 
 I build scalable mobile and web applications with a focus on real-time systems, performance, and API-driven architecture.
 
+---
+
 ## 🚀 Featured Projects
 
-### Ride Dispatch App (React Native + WebSocket + Mapbox)
-Real-time ride-hailing mobile app with live tracking and event-driven architecture.
-- WebSocket-based ride updates
-- Mapbox live location tracking
-- Handles unstable network conditions
+### Realtime Messaging App (React Native + Django + WebSocket)
+Fullstack messaging application with real-time updates and event-driven architecture.
+- WebSocket-based communication (room/event system)
+- Real-time message synchronization
+- Backend powered by Django REST
 
-👉 [View Repository]
-
----
-
-### OCR Mobile Scanner (Offline-first)
-Mobile app that extracts structured data from shipping containers without requiring a backend.
-- Works offline (low connectivity environments)
-- Optimized for performance on-device
-
-👉 [View Repository]
+👉 [https://github.com/GyllDoko/realtime-messaging-app-rn-django](https://github.com/GyllDoko/realtime-chat-app-websocket-django-react-native)
 
 ---
 
-### Fleet Management SaaS (In Progress)
-Dispatch and tracking platform designed for African markets.
-- Real-time tracking system
-- Backend with Django REST
-- Scalable architecture
+### Messaging & VoIP App (React Native)
+Advanced messaging system with real-time communication and VoIP capabilities.
+- Real-time chat system
+- Voice communication (VoIP integration)
+- Optimized for responsiveness and performance
 
-👉 [View Repository]
+👉 [https://github.com/GyllDoko/realtime-messaging-voip-app](https://github.com/GyllDoko/secure-messaging-app-voip-react-native)
+
+---
+
+### Property Booking App (React Native + Mapbox)
+Mobile platform for property discovery and booking with geolocation features.
+- Mapbox integration with clustering
+- Search & filtering system
+- Booking flow and listing management
+
+👉 [https://github.com/GyllDoko/property-booking-app-react-native](https://github.com/GyllDoko/rental-platform-mapbox-react-native)
+
+---
+
+### E-commerce Platform (React + Stripe)
+Fullstack e-commerce application with complete purchase flow.
+- Product catalog and cart system
+- Secure payments with Stripe
+- End-to-end checkout experience
+
+👉 [https://github.com/GyllDoko/ecommerce-platform-stripe-react](https://github.com/GyllDoko/ecommerce-platform-stripe-firebase-react)
 
 ---
 
 ## 🧠 Core Stack
-React • React Native • Expo • Django REST • WebSockets • Firebase • Mapbox
+
+React • React Native • Expo • Django REST • WebSockets • Firebase • Mapbox • Stripe
+
+---
 
 ## 📫 Contact
+
 - Portfolio: https://rad-starship-42dc24.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/gyll-christ-doko-alfa-bbab2b205/
