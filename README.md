@@ -54,5 +54,5 @@ React • React Native • Expo • Django REST • WebSockets • Firebase • 
 
 ## 📫 Contact
 
-- Portfolio: [https://rad-starship-42dc24.netlify.app/](https://gylldoko.dev)
+- Portfolio: https://gylldoko.dev/
 - LinkedIn: https://www.linkedin.com/in/gyll-christ-doko-alfa-bbab2b205/
